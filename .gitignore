@@ -1,0 +1,11 @@
+# Ignorar la carpeta del entorno virtual
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.vscode/
+.idea/
+.DS_Store
